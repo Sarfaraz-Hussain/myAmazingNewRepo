@@ -5,4 +5,5 @@
 [] javascript
 [] C#
 [] C
+[] Scala
 
